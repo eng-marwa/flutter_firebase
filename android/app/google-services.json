@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621506262823",
+    "project_id": "iti-flutter-9cc8e",
+    "storage_bucket": "iti-flutter-9cc8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621506262823:android:38a8b2efff5a268f33db02",
+        "android_client_info": {
+          "package_name": "com.example.iti_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFw_1xjonMsou4nJIIk7KEGSciAb0XnXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
